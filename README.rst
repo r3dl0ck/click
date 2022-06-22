@@ -1,4 +1,4 @@
-\$ click\_
+\$ click\
 ==========
 
 Click is a Python package for creating beautiful command line interfaces
