@@ -34,6 +34,8 @@ A Simple Example
 
 .. code-block:: python
 
+
+
     import click
 
     @click.command()
